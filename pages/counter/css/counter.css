@@ -1,0 +1,101 @@
+body{
+  background: url('https://js-beginners.github.io/counter-project/img/mainBcg.jpeg');
+  background-repeat: repeat;
+  background-size: cover;
+
+}
+.main-container{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
+
+.all-count{
+ flex-basis: 500px;
+ text-align: center;
+ border: 0.1rem solid #f5f5f5;
+ box-shadow: 0 0.5rem 0.5rem rgb(0 0 0 / 90%);
+ border-radius: 0.2rem;
+ margin-top: 60px;
+
+}
+
+
+
+#text-counter{
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  color: #f5f5f5;
+  padding-top: 30px;
+}
+
+
+
+ 
+
+
+#show-number{
+  font-size: 10rem;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  color: #333333;
+  font-family: sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+
+.counter-btn{
+  
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+
+
+#low{
+  margin-bottom: 30px;
+  box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 90%);
+  cursor: pointer;
+  background-color: #0d2c54;
+  color: #f5f5f5;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  text-transform: uppercase;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+#low:hover{
+  background-color: #007bff;
+}
+
+
+
+#add:hover{
+  background-color: #007bff;
+}
+
+
+
+#add{
+  margin-bottom: 30px;
+  box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 90%);
+  cursor: pointer;
+  background-color: #0d2c54;
+  color: #f5f5f5;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  text-transform: uppercase;
+  padding: 8px;
+  border-radius: 6px;
+}
