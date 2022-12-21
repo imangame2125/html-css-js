@@ -1,1 +1,1 @@
-There are some simple HTML/CSS/JS projects. You can find the output of each on https://message-alert.vercel.app/
+There are some simple HTML/CSS/JS projects. You can find the output of each on https://html-css-js-ten.vercel.app/
